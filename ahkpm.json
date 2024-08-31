@@ -5,12 +5,12 @@
   "website": "",
   "license": "MIT",
   "issueTracker": "",
-  "include": "",
+  "include": "PSKill.ahk",
   "author": {
     "name": "Paul Staszko",
     "email": "paulstaszko@gmail.com",
     "website": ""
   },
-  "scripts": {"PSKill.ahk"},
+  "scripts": {},
   "dependencies": {}
 }
