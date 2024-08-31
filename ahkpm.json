@@ -11,6 +11,6 @@
     "email": "paulstaszko@gmail.com",
     "website": ""
   },
-  "scripts": {},
+  "scripts": {PSKill.ahk},
   "dependencies": {}
 }
