@@ -1,4 +1,4 @@
-FileInstall pskill.exe
+;FileInstall pskill.exe
 PSKill(exe, async=0){
 	global
 	if async
